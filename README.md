@@ -4,4 +4,4 @@ This repository contains our group assignment for the System Thinking & Logic su
 
 This group assignment focuses on applying system thinking and logical problem-solving. The assignment involves analyzing a system's structure, breaking it into functional components, and representing its processes using flowcharts and pseudocode.
 
-
+# h
