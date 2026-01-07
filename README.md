@@ -18,6 +18,9 @@ An online attendance system solves these problems by:
 Team Members & Roles
 
 Nifael - Introduction, Functional Requirement 1, Pseudocode Developer & Flowchart Designer
+
 Huda - Functional Requirement 2 & 3, Pseudocode Developer & Flowchart Designer
+
 Ammar - Functional Requirement 4, Pseudocode Developer & Flowchart Designer
+
 Hafizi - Functional Requirement 5, Pseudocode Developer & Flowchart Designer, GitHub Coordinator
