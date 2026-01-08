@@ -19,7 +19,7 @@ Team Members & Roles
 
 Nifael - Introduction, Functional Requirement 1, Pseudocode Developer & Flowchart Designer
 
-Huda - Functional Requirement 2 & 3, Pseudocode Developer & Flowchart Designer
+Huda - Functional Requirement 2 & 3, Pseudocode Developer & Flowchart Designer, Report Compilation
 
 Ammar - Functional Requirement 4, Pseudocode Developer & Flowchart Designer
 
